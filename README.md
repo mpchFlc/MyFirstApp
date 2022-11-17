@@ -1,2 +1,2 @@
 # MyFirstApp
-**This a Window Form App in Visual Basic**
+**This a Windows Forms App in Visual Basic**
